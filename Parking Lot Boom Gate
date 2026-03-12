@@ -1,3 +1,4 @@
+#Arduino Parking Gate Project
 🧰 Components Needed
 
 Arduino Uno
@@ -13,5 +14,3 @@ Servo motor
 Breadboard
 
 Jumper wires
-
-5V power from Arduino
