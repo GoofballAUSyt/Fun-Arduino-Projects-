@@ -1,2 +1,1 @@
-# Fun-Arduino-Projects-
-I built an Arduino parking gate using a keypad, LCD, and servo. Enter the correct code and the servo lifts the gate like a real parking barrier, then closes after a few seconds. I also made a calculator using the keypad and LCD to solve math problems. These are just the start—and there is so much more to come.
+This project explores how Arduino can turn simple components like keypads, LCD screens, and servos into interactive systems. I built creations such as a parking gate that unlocks with a code and a working calculator. These projects show how coding and electronics can create useful, real-world ideas—and there is so much more to come.
